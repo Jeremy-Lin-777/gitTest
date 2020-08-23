@@ -12,6 +12,7 @@ public class test01 {
     }
 
     public String cc;
+    int bb;
 
     public void mama()
     {
