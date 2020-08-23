@@ -5,4 +5,6 @@ public class test01 {
         System.out.println("打包成功");
         System.out.println("TestB");
     }
+
+    public String cc;
 }
