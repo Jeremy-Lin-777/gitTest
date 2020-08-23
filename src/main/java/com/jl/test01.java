@@ -8,7 +8,7 @@ public class test01 {
     public static void main(String[] args) {
         System.out.println("打包成功");
         System.out.println("TestB");
-        System.out.println("TestC");
+        System.out.println("TestD");
     }
 
     public String cc;
