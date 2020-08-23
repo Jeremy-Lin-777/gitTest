@@ -2,8 +2,8 @@ package com.jl;
 
 public class test01 {
 
-    private String a;
-    private String b;
+    public String a;
+    public String b;
 
     public static void main(String[] args) {
         System.out.println("打包成功");
@@ -11,4 +11,9 @@ public class test01 {
     }
 
     public String cc;
+
+    public void mama()
+    {
+
+    }
 }
